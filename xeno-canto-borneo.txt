@@ -21,7 +21,7 @@
     XC33419: Crested Serpent Eagle
     XC33426: Common Emerald Dove
     XC67900: Short-toed Coucal
-    XC67899: Short-toed Coucal
+    XC67899: Short-toed Coucal[]
     XC67898: Short-toed Coucal
     XC67897: Short-toed Coucal
     XC67896: Short-toed Coucal
